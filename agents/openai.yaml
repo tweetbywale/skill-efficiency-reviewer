@@ -1,0 +1,3 @@
+display_name: Skill Efficiency Reviewer
+short_description: Audit and improve Codex skills.
+default_prompt: Review this Codex skill for clarity, reusability, workflow quality, and efficiency. Score it and suggest or draft improvements.
